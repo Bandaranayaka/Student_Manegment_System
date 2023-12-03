@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Student manegment system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bandaranayaka/Student_Manegment_System.git"
+  },
+  "keywords": [
+    "thilakshana"
+  ],
+  "author": "thilakshana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bandaranayaka/Student_Manegment_System/issues"
+  },
+  "homepage": "https://github.com/Bandaranayaka/Student_Manegment_System#readme"
+}
